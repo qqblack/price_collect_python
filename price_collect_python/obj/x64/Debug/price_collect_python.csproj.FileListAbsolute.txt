@@ -1,0 +1,8 @@
+E:\program_test\C#\price_collect_python\price_collect_python\bin\x64\Debug\price_collect_python.exe
+E:\program_test\C#\price_collect_python\price_collect_python\bin\x64\Debug\price_collect_python.pdb
+E:\program_test\C#\price_collect_python\price_collect_python\obj\x64\Debug\price_collect_python.csprojResolveAssemblyReference.cache
+E:\program_test\C#\price_collect_python\price_collect_python\obj\x64\Debug\price_collect_python.Form1.resources
+E:\program_test\C#\price_collect_python\price_collect_python\obj\x64\Debug\price_collect_python.Properties.Resources.resources
+E:\program_test\C#\price_collect_python\price_collect_python\obj\x64\Debug\price_collect_python.csproj.GenerateResource.Cache
+E:\program_test\C#\price_collect_python\price_collect_python\obj\x64\Debug\price_collect_python.exe
+E:\program_test\C#\price_collect_python\price_collect_python\obj\x64\Debug\price_collect_python.pdb
