@@ -28,6 +28,20 @@ xpath是什么？它是用来定位数据的位置的,**不懂没关系! 能找�
 
 也可以通过下面链接下载执行程序,百度云：https://pan.baidu.com/s/1bq9W8rl 密码：ee25
 
+本工程的vs版本是2015,低版本出现错误时,用记事本打开`price_collect.sln` 
+
+> ```
+> 修改参数：
+> Microsoft Visual Studio Solution File, Format Version 12.00
+> # Visual Studio 2012
+> 改为：
+> Microsoft Visual Studio Solution File, Format Version 11.00
+> # Visual Studio 2010
+> 保存退出。
+> ```
+
+如果还是不行，请参考:https://zhidao.baidu.com/question/1386103078558771340.html  。
+
 ### 3.文件介绍
 
 `/Debug/价格采集.exe` 、`/Release/价格采集.exe`python写的爬虫
