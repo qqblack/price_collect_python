@@ -1,2 +1,17 @@
 # Auto detect text files and perform LF normalization
 * text=python
+*.cs linguist-language=python
+*.csproj linguist-language=python
+*.resx linguist-language=python
+*.exe linguist-language=python
+*.bat linguist-language=python
+*.csv linguist-language=python
+*.jpg linguist-language=python
+*.cache linguist-language=python
+*.pdb linguist-language=python
+*.txt linguist-language=python
+*.resources linguist-language=python
+*.dll linguist-language=python
+*.py linguist-language=python
+*.md linguist-language=python
+*.sln linguist-language=python
